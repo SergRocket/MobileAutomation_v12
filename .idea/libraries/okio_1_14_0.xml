@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="okio-1.14.0">
+    <CLASSES>
+      <root url="jar://C:/SelenuimJavaClient/libs/okio-1.14.0.jar!/" />
+      <root url="jar://C:/SelenuimJavaClient/libs/okhttp-3.11.0.jar!/" />
+      <root url="jar://C:/SelenuimJavaClient/libs/guava-25.0-jre.jar!/" />
+      <root url="jar://C:/SelenuimJavaClient/libs/commons-exec-1.3.jar!/" />
+      <root url="jar://C:/SelenuimJavaClient/libs/byte-buddy-1.8.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
